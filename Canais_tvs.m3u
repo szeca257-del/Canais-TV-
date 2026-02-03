@@ -4,7 +4,7 @@ https://origin-05.nxplay.com.br/GLOBO_SP_TK/index.m3u8?token=roku-t0k3n-v3r1fy1n
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Tv Abertas",SBT
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Tv Abertas",BAND
-https://origin-05.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?token=roku-t0k3n-v3r1fy1ng
+https://hqf6tcxuhk.singularcdn.net.br/live/019861d2-261b-7c52-b0b1-9dd659a24e1d/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTg2MWQyLTI2MWItN2M1Mi1iMGIxLTlkZDY1OWEyNGUxZC8iLCJ1aWQiOiJlOGVlNDliOC04MGU0LTRhNDMtYjEwOC1kM2EwZmM0OGEyNzYiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc3MDA5NDEyMywiaWF0IjoxNzcwMDk0MTIzLCJleHAiOjE4MDE2MzAxMjMsImp0aSI6ImU4ZWU0OWI4LTgwZTQtNGE0My1iMTA4LWQzYTBmYzQ4YTI3NiIsImlzcyI6IlNwYWxsYSJ9.EatZYjISzArkTmGuFZbqu1T-e8PnDHS87_yTBUZiLLo&uid=e8ee49b8-80e4-4a43-b108-d3a0fc48a276
 #EXTINF:-1 tvg-name="RECORD TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Tv Abertas",RECORD TV
 https://origin-05.nxplay.com.br/RECORD_HD_TK/index.m3u8?token=roku-t0k3n-v3r1fy1ng
 #EXTINF:-1 tvg-name="BBB26" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB26
