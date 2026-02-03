@@ -11,3 +11,5 @@ https://origin-05.nxplay.com.br/RECORD_HD_TK/index.m3u8?token=roku-t0k3n-v3r1fy1
 https://image-storage-51.imgcontent.xyz/live/bbb26/index.m3u8
 #EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/globoplay-logo-0-1.png" group-title="Entretenimento",GLOBOPLAY NOVELAS
 https://image-storage-3005.imgcontent.xyz/live/globoplaynovelas/index.m3u8
+#EXTINF:-1 tvg-name="CAZE TV" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="Esportes",CAZE TV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
