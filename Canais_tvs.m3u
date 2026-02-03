@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Tv Abertas",GLOBO SP
-https://origin-05.nxplay.com.br/GLOBO_SP_TK/index.m3u8?token=roku-t0k3n-v3r1fy1ng
+https://live-ber-sp-05-10.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA1LTEwLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MDExNjEyMCwiaWF0IjoxNzcwMDk0NTIwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjdkNWNhNmU4LTU5NTQtNGZkZS05ZWYzLWI5MmU2MmZjNzRkOCIsInBhdGgiOiIvbGl2ZS9mKGJNYXg9MjI2Mjk3NixpPTIpL2dsb2JvLXNlci9wbGF5bGlzdC5tM3U4In0.0W9JRDgOmFkR0eQ6AhaA5NVMJZVZf6crmDUHwMxp_ut9KU_B_XMcJmdnLfgHP4u68-w0A35zIPWdtJapr9BArM1IHlNQrjZbgzY6R-1k7mYCfmND7wyDoEoJNz8-yNtPYiOlIJZ9VqQtS3RLzO2n1EuZL3ljfinIb-8iZgZybLYWFbnHvgNDJ0mGD0vfEfIPRaHCMbFt6xVlCFk0nb4jVKMz43Q8AD_2M3dD7XcTJ6-H1sauU_UzyCWZ56zVY6k9N2Q51XaXnTrDfpMULB8AjZmNGAwsB3h87-N_Cd_F8Vda8oVZzvVtschbDjCl0oyg2FCELGpktju5ZE_Mc_tZOg/live/f(bMax=2262976,i=2)/globo-ser/globo-ser-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Tv Abertas",SBT
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Tv Abertas",BAND
