@@ -27,7 +27,7 @@ http://200.4.96.59:8825/play/a03c/index.m3u8
 http://200.4.96.59:8825/play/a03k/index.m3u8
 #EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="Filmes",Telecine Premium HD
 http://200.4.96.59:8825/play/a03i/index.m3u8
-#EXTINF:-1 tvg-name="GE TV HD" tvg-logo="" group-title="Esportes",GE TV HD
+#EXTINF:-1 tvg-name="GE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_GE_TV.svg" group-title="Esportes",GE TV HD
 http://200.4.96.59:8825/play/a06t/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Desenhos",Cartoon Network HD
 http://200.4.96.59:8825/play/a02g/index.m3u8
