@@ -21,13 +21,13 @@ http://200.4.96.59:8825/play/a052/index.m3u8
 http://200.4.96.59:8825/play/a022/index.m3u8
 #EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 5 HD
 http://200.4.96.59:8825/play/a06o/index.m3u8
-#EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="" group-title="Tv Aberta",RedeTV! HD
+#EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Tv Aberta",RedeTV! HD
 http://200.4.96.59:8825/play/a03c/index.m3u8
-#EXTINF:-1 tvg-name="Telecine Pipoca HD" tvg-logo="" group-title="Filmes",Telecine Pipoca HD
+#EXTINF:-1 tvg-name="Telecine Pipoca HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="Filmes",Telecine Pipoca HD
 http://200.4.96.59:8825/play/a03k/index.m3u8
-#EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="" group-title="Filmes",Telecine Premium HD
+#EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="Filmes",Telecine Premium HD
 http://200.4.96.59:8825/play/a03i/index.m3u8
 #EXTINF:-1 tvg-name="GE TV HD" tvg-logo="" group-title="Esportes",GE TV HD
 http://200.4.96.59:8825/play/a06t/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="" group-title="Desenhos",Cartoon Network HD
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Desenhos",Cartoon Network HD
 http://200.4.96.59:8825/play/a02g/index.m3u8
