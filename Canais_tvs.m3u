@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Tv Abertas",GLOBO SP
 https://live-tvg-pe-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLXBlLTA2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MDE3NDE1NSwiaWF0IjoxNzcwMTUyNTU1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjdkNWNhNmU4LTU5NTQtNGZkZS05ZWYzLWI5MmU2MmZjNzRkOCIsInBhdGgiOiIvbGl2ZS9mKGJNYXg9MjI2Mjk3NixpPTIpL2dsb2JvLXNlci9wbGF5bGlzdC5tM3U4In0.rX2cahiTQUhjBjFbvk7PbiEA22_Tajww_HFMBqKbnnP5xjeeOB4aLCUAHpgIOLE3OWngU-V-unagNVTXuahVwvx9XNC2axUenC3rgDcM8jAlgP-b6ijMhdFuiyR2lIv7e5BQylyYGjM9nV9N9G8Jbt7R0yYfKif78Y2B3A_cJq_mmdmQhM_G4Y4LuUZzcHcfkVE8lonnoXwwxlCv63q1fLAfFVYNlQb0KkKXcWeeoSXfYL5wrmojaPLYKhecHXI8QJED9CgGbnp25jw3aEdFqbeV61-rlDnPcjCBk0U_LY36WRDlcb1oMOjAXQX9NZ2dILlH79pqLHwCeiFVsF2law/live/f(bMax=2262976,i=2)/globo-ser/globo-ser-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Tv Abertas",SBT
-https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
+http://200.4.96.59:8825/play/a03a/index.m3u8
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Tv Abertas",BAND
 https://hqf6tcxuhk.singularcdn.net.br/live/019861d2-261b-7c52-b0b1-9dd659a24e1d/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTg2MWQyLTI2MWItN2M1Mi1iMGIxLTlkZDY1OWEyNGUxZC8iLCJ1aWQiOiJlOGVlNDliOC04MGU0LTRhNDMtYjEwOC1kM2EwZmM0OGEyNzYiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc3MDA5NDEyMywiaWF0IjoxNzcwMDk0MTIzLCJleHAiOjE4MDE2MzAxMjMsImp0aSI6ImU4ZWU0OWI4LTgwZTQtNGE0My1iMTA4LWQzYTBmYzQ4YTI3NiIsImlzcyI6IlNwYWxsYSJ9.EatZYjISzArkTmGuFZbqu1T-e8PnDHS87_yTBUZiLLo&uid=e8ee49b8-80e4-4a43-b108-d3a0fc48a276
 #EXTINF:-1 tvg-name="RECORD TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Tv Abertas",RECORD TV
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+http://200.4.96.59:8825/play/a03d/index.m3u8
 #EXTINF:-1 tvg-name="BBB26" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB26
 https://image-storage-51.imgcontent.xyz/live/bbb26/index.m3u8
 #EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/globoplay-logo-0-1.png" group-title="Entretenimento",GLOBOPLAY NOVELAS
@@ -17,3 +17,5 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 http://200.4.96.59:8825/play/a02a/index.m3u8
 #EXTINF:-1 tvg-name="SporTV2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esportes",SporTV2 HD
 http://200.4.96.59:8825/play/a050/index.m3u8
+#EXTINF:-1 tvg-name="SporTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esportes",SporTV HD
+http://200.4.96.59:8825/play/a097/index.m3u8
