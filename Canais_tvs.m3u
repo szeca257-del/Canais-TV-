@@ -15,3 +15,8 @@ https://image-storage-3005.imgcontent.xyz/live/globoplaynovelas/index.m3u8
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="Esportes",ESPN HD
 http://200.4.96.59:8825/play/a02a/index.m3u8
+#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 3 HD
+http://200.4.96.59:8825/play/a022/index.m3u8
+#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 4 HD
+http://200.4.96.59:8825/play/a06o/index.m3u8
+#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 5 HD
