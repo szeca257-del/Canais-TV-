@@ -19,3 +19,5 @@ http://200.4.96.59:8825/play/a02a/index.m3u8
 http://200.4.96.59:8825/play/a03c/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Desenhos",Cartoon Network HD
 http://200.4.96.59:8825/play/a02g/index.m3u8
+#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="http://dnsgma.top/static/logos/canais/premiere.png" group-title="Esportes",Premiere Clubes HD
+http://dnsgma.top:80/1196030/325605Re/72265.ts
