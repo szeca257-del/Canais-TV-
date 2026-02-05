@@ -21,3 +21,5 @@ http://200.4.96.59:8825/play/a03c/index.m3u8
 http://200.4.96.59:8825/play/a02g/index.m3u8
 #EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="http://dnsgma.top/static/logos/canais/premiere.png" group-title="Esportes",Premiere Clubes HD
 http://dnsgma.top:80/1196030/325605Re/72265.ts
+#EXTINF:-1 tvg-name="Max 1 HD" tvg-logo="http://dnsgma.top/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Esportes",Max 1 HD
+http://dnsgma.top:80/1196030/325605Re/140504.ts
