@@ -16,8 +16,8 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="Esportes",ESPN HD
 http://dnsgma.top:80/1196030/325605Re/71913.ts
 #EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Tv Aberta",RedeTV! HD
-https://origin-05.nxplay.com.br/REDETV_HD_SIMBA_TK/index.m3u8?token=roku-t0k3n-v3r1fy1ng
+http://dnsgma.top:80/1196030/325605Re/72299.ts
 #EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Desenhos",Cartoon Network HD
-https://origin-05.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8?token=roku-t0k3n-v3r1fy1ng
+http://dnsgma.top:80/1196030/325605Re/71831.ts
 #EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="http://dnsgma.top/static/logos/canais/premiere.png" group-title="Esportes",Premiere Clubes HD
 http://dnsgma.top:80/1196030/325605Re/72265.ts
