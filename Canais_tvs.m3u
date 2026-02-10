@@ -39,3 +39,9 @@ http://200.115.112.44:20900/play/a067
 http://200.115.112.44:20900/play/a0di
 #EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN 5 HD
 http://200.115.112.44:20900/play/a0aw
+#EXTINF:-1 tvg-name="sportv HD" tvg-logo="https://logodownload.org/sportv-logo/#google_vignette" group-title="Esportes",sportv HD
+http://200.115.112.44:20900/play/a0b4
+#EXTINF:-1 tvg-name="sportv 2 HD" tvg-logo="https://logodownload.org/sportv-logo/#google_vignette" group-title="Esportes",sportv 2 HD
+http://200.115.112.44:20900/play/a0cv
+#EXTINF:-1 tvg-name="sportv 3 HD" tvg-logo="https://logodownload.org/sportv-logo/#google_vignette" group-title="Esportes",sportv 3 HD
+http://200.115.112.44:20900/play/a0cw
