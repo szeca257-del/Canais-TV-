@@ -24,7 +24,7 @@ http://200.115.112.44:20900/play/a0by
 
 # ===== ESPORTES - PREMIERE =====
 #EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="http://dnsgma.top/static/logos/canais/premiere.png" group-title="Esportes",Premiere Clubes HD
-https://d1muf25xa02so8hp20.s27-usa-cloudfront-net.online/token/ee747f35472d3fab76853497dc6423a7/premiere.m3u8
+http://200.115.112.44:64347/play/a0cc
 #EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 2 HD
 http://200.115.112.44:20900/play/a0ap
 #EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 3 HD
