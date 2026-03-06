@@ -8,7 +8,7 @@ https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="TV Abertas",BAND
 https://d1muf25xa03so8hp03.s27-usa-cloudfront-net.online/token/c99e4d72a5a864e05ed6c97f40cc9fbf/band.txt
 #EXTINF:-1 tvg-name="RECORD TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Abertas",RECORD TV
-https://d1muf25xa03so8hp03.s27-usa-cloudfront-net.online/token/2ec1a549f5a0851ca13fa7e3b1129402/record.txt
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="TV Abertas",RedeTV! HD
 http://200.115.112.44:20900/play/a0c3
 
