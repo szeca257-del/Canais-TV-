@@ -10,7 +10,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-name="RECORD TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Abertas",RECORD TV
 http://177.52.24.154:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="TV Abertas",RedeTV! HD
-http://200.115.112.44:20900/play/a0c3
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 # ===== ENTRETENIMENTO =====
 #EXTINF:-1 tvg-name="BBB26" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB26
