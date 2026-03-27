@@ -6,7 +6,7 @@ https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="TV Abertas",SBT
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="TV Abertas",BAND
-https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManOTV
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-name="RECORD TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Abertas",RECORD TV
 http://177.52.24.154:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="TV Abertas",RedeTV! HD
