@@ -8,7 +8,7 @@ https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="TV Abertas",BAND
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManOTV
 #EXTINF:-1 tvg-name="RECORD TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Abertas",RECORD TV
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+http://177.52.24.154:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="TV Abertas",RedeTV! HD
 http://200.115.112.44:20900/play/a0c3
 
@@ -30,31 +30,31 @@ http://200.115.112.44:20900/play/a0ap
 #EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 3 HD
 http://200.115.112.44:20900/play/a0bi
 #EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 4 HD
-http://200.115.112.44:20900/play/a0cx
+http://177.52.24.154:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 5 HD
 http://200.115.112.44:20900/play/a0bj
 #EXTINF:-1 tvg-name="Premiere 6 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 6 HD
 http://200.115.112.44:20900/play/a0c1
 #EXTINF:-1 tvg-name="Premiere 7 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes",Premiere 7 HD
-http://200.115.112.44:20900/play/a0d0
+http://177.52.24.154:8000/play/a033/index.m3u8
 
 # ===== ESPORTES - ESPN =====
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="Esportes",ESPN HD
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51766
 #EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN 2 HD
-http://200.115.112.44:20900/play/a066
+http://177.52.24.154:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN 3 HD
 http://200.115.112.44:20900/play/a067
 #EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN 4 HD
 http://flipex.pro:80/Sanny/Stat2/2122
 #EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN 5 HD
-http://200.115.112.44:20900/play/a0aw
+http://177.52.24.154:8000/play/a02a/index.m3u8
 
 # ===== ESPORTES - SPORTV =====
 #EXTINF:-1 tvg-name="sportv HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",sportv HD
 http://200.115.112.44:20900/play/a0b4
 #EXTINF:-1 tvg-name="sportv 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",sportv 2 HD
-http://200.115.112.44:20900/play/a0cv
+http://177.52.24.154:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-name="sportv 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",sportv 3 HD
-http://200.115.112.44:20900/play/a0cw
+http://177.52.24.154:8000/play/a02x/index.m3u8
 
