@@ -20,7 +20,7 @@ https://image-storage-3005.imgcontent.xyz/live/globoplaynovelas/index.m3u8
 
 # ===== DESENHOS/INFANTIL =====
 #EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Desenhos",Cartoon Network HD
-https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88
+http://200.216.127.143:8000/play/a0gc/index.m3u8
 
 # ===== ESPORTES - PREMIERE =====
 #EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="http://dnsgma.top/static/logos/canais/premiere.png" group-title="Esportes",Premiere Clubes HD
@@ -52,7 +52,7 @@ http://177.52.24.154:8000/play/a02a/index.m3u8
 
 # ===== ESPORTES - SPORTV =====
 #EXTINF:-1 tvg-name="sportv HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",sportv HD
-http://200.115.112.44:20900/play/a0b4
+http://179.190.110.29:8000/play/a007
 #EXTINF:-1 tvg-name="sportv 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",sportv 2 HD
 http://177.52.24.154:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-name="sportv 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",sportv 3 HD
