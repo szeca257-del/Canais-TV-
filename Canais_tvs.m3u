@@ -13,8 +13,6 @@ http://177.52.24.154:8000/play/a02j/index.m3u8
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 # ===== ENTRETENIMENTO =====
-#EXTINF:-1 tvg-name="BBB26" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB26
-https://image-storage-51.imgcontent.xyz/live/bbb26/index.m3u8
 #EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/globoplay-logo-0-1.png" group-title="Entretenimento",GLOBOPLAY NOVELAS
 https://image-storage-3005.imgcontent.xyz/live/globoplaynovelas/index.m3u8
 
