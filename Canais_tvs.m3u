@@ -40,7 +40,7 @@ http://177.52.24.154:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="Esportes",ESPN HD
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51766
 #EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN 2 HD
-http://177.52.24.154:8000/play/a02d/index.m3u8
+http://189.14.238.85:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN 3 HD
 http://200.115.112.44:20900/play/a067
 #EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN 4 HD
