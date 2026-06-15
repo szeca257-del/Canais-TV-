@@ -14,7 +14,7 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 # ===== ENTRETENIMENTO =====
 #EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/globoplay-logo-0-1.png" group-title="Entretenimento",GLOBOPLAY NOVELAS
-https://image-storage-3005.imgcontent.xyz/live/globoplaynovelas/index.m3u8
+http://189.14.238.85:8000/play/a00q/index.m3u8
 
 # ===== DESENHOS/INFANTIL =====
 #EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Desenhos",Cartoon Network HD
